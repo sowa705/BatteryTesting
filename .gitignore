@@ -1,0 +1,3 @@
+battery_*.txt
+*.png
+!example.png
